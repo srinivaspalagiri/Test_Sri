@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c06c53ee4899d47d88ba313bf0a3007a
+timeCreated: 1473101289
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - enemy: {instanceID: 0}
+  - masterMix: {fileID: 24100000, guid: 9acb79db29606e249aa6ef61f84d8f4b, type: 2}
+  - soundCue: {fileID: 8300000, guid: 7640f0bc6d9083d448a740a4b30bac3d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
